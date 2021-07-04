@@ -1,4 +1,5 @@
 # Projeto Movie Cards Library
+![movie-cards-library](https://user-images.githubusercontent.com/82068881/124370989-b14de300-dc53-11eb-935d-650ef78af912.png)
 
 ***
 Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-movie-cards-library/).
