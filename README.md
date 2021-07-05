@@ -17,7 +17,7 @@ Foi criada uma página com cards de filmes diferentes. O site é inteiramente fe
 - MovieCard: responsável pela renderização dos dados de um filme;
 - Movie: resposável pela renderização de um conjunto de MovieCards;
 
-O projeto não foi refatorado após sua entrega (17/06/2021).
+O projeto não foi refatorado após sua entrega (30/06/2021).
 ***
 Os requisitos que compõem projeto são:
 
